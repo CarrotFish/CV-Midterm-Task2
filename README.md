@@ -27,6 +27,6 @@ python main_4.py
 ```
 
 ## 训练测试环境与权重文件
-权重文件放置在[我的网站](https://ricacraft.com/downlaods/pt/CV-Midterm-Task2.pt)。
+权重文件放置在[我的网站](https://ricacraft.com/downloads/pt/CV-Midterm-Task2.pt)。
 
 测试训练使用的环境为Intel Ultra7 265K (64G RAM) + AMD Instinct MI50 32G，Ubuntu26.04 + ROCm 7.13-preview
